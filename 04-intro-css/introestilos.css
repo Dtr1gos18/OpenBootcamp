@@ -1,0 +1,35 @@
+.colores{
+    color: orangered;
+}
+
+.color-hexadecimal{
+    color: #BCE784
+}
+.color-rgb{
+    color: rgb(12, 100, 50);
+}
+/*ultimo numero opcaidad entre 0-1*/
+.color-rgba{
+    color: rgba(0, 255, 50, 0.5);
+}
+.fondo{
+    background-color: #BCE784;
+    background-image: url("imagenes/backiee-240251.jpg");
+    background-position: center center;
+}
+/*tamaños*/
+.ancho{
+    background-color: bisque;
+    width: 100px;
+}
+.alto{
+    background-color: rgb(55, 202, 151);
+    height: 500px;
+}
+.tarjeta{
+    border-style: solid;
+    border-color:rgb(12, 100, 50);
+    border-width: 1px;
+    /*border-top: none;*/
+    margin: 10px;
+}

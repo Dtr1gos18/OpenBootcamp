@@ -1,0 +1,13 @@
+*{
+    padding: o;
+    margin: 0;
+}
+.paisajes{  
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.img-paisajes{   
+    width: 300px;
+    border: 2px solid black;
+}

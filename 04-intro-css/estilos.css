@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+  font-size: 50px;
+  font-family: Arial;
+  text-align: center;
+}
+p {
+  color: blue;
+  font-size: 20px;
+}
+/*selector de id #*/
+#primera-noticia {
+  color: green;
+  font-size: 12pt;
+}
+/*selector de clase .*/
+.encabezado {
+  color: purple;
+  text-transform: uppercase;
+}
+*.warning{
+    color: red;
+
+}
+.autor, .fecha, .ubicacion{
+    text-decoration: underline;
+}
